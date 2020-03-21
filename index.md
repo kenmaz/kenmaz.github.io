@@ -6,4 +6,4 @@
 
 # Apps
 - [AppStore](https://itunes.apple.com/jp/artist/kentaro-matsumae/id290852801")
-- [Google Play](https://play.google.com/store/apps/developer?id=kenmaz.net&hl=ja)
+- [Others](https://play.google.com/store/apps/developer?id=kenmaz.net&hl=ja)
