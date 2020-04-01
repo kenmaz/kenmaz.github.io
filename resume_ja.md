@@ -48,8 +48,8 @@
   - CoreMLによる超解像ライブラリ
 - AnimeMaker
   - パラパラマンガ作成共有サービス (140K MAU, 約5000作品投稿/日) 
-  - [iOSアプリ](https://itunes.apple.com/jp/app/animemaker/id405622194?mt=8) (30万DL)
-  - [Androidアプリ](https://play.google.com/store/apps/details?id=kenmaz.net.animemaker&hl=ja) (75万DL)
+  - [iOSアプリ](https://itunes.apple.com/jp/app/animemaker/id405622194?mt=8) (60万DL~)
+  - [Androidアプリ](https://play.google.com/store/apps/details?id=kenmaz.net.animemaker&hl=ja) (100万DL~)
   - [Web](http://anime.kenmaz.net) 
 - [ももクロメンバー識別器](http://momomind.kenmaz.net)
   - 深層学習の検証用
