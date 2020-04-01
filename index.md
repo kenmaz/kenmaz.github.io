@@ -7,3 +7,6 @@
 # Apps
 - [AppStore](https://itunes.apple.com/jp/artist/kentaro-matsumae/id290852801")
 - [Others](https://play.google.com/store/apps/developer?id=kenmaz.net&hl=ja)
+
+# Resume
+- [resume_ja.md](./resume_ja.md)
