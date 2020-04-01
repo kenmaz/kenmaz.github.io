@@ -5,11 +5,13 @@
 
 - Name: 松前健太郎 (Kentaro Matsumae / @kenmaz) 
 - Mail: kentaro.matsumae@gmail.com
-- Twitter: https://twitter.com/kenmaz
-- Facebook: https://www.facebook.com/kenmaz
-- github: https://github.com/kenmaz
-- Tech Blog: https://qiita.com/kenmaz, http://kenmaz.hatenadiary.jp
-- Slides: https://speakerdeck.com/kenmaz, https://www.slideshare.net/kenmaz
+- [Twitter](https://twitter.com/kenmaz)
+- [Facebook](https://www.facebook.com/kenmaz)
+- [github](https://github.com/kenmaz)
+- [Qiita](https://qiita.com/kenmaz)
+- [Hatena](http://kenmaz.hatenadiary.jp)
+- [Speaker Deck](https://speakerdeck.com/kenmaz)
+- [SlideShare](https://www.slideshare.net/kenmaz)
 
 # スキル
 - iOSアプリケーション開発 (Swift, Objective-C)
@@ -43,9 +45,9 @@
 
 # OSS活動/個人プロジェクト
 - [SRCNNKit](https://github.com/DeNA/SRCNNKit)
-  - CoreMLによる超解像ライブラリのowner
+  - CoreMLによる超解像ライブラリ
 - AnimeMaker
-  - パラパラマンガ作成共有サービス (7万MAU, 約2000作品投稿/日) 
+  - パラパラマンガ作成共有サービス (140K MAU, 約5000作品投稿/日) 
   - [iOSアプリ](https://itunes.apple.com/jp/app/animemaker/id405622194?mt=8) (30万DL)
   - [Androidアプリ](https://play.google.com/store/apps/details?id=kenmaz.net.animemaker&hl=ja) (75万DL)
   - [Web](http://anime.kenmaz.net) 
@@ -63,6 +65,8 @@
     - iD決済連携(Apple Pay In-App Provisioning)
     - 銀行口座接続機能
     - QRコード決済機能(CPM/MPM)
+    - 近くのお店機能(Google Maps SDK)
+    - iOS開発基盤整備
 
 ## 株式会社ディー・エヌ・エー (2013/4〜2018/5)
 ### 業務概要
@@ -187,6 +191,7 @@
   - 使用技術：Java+Servlet+JSP、WebLogicサーバー、MS SQLServer
 
 # 関連記事
+- [Xcode Previewsを用いたUIKitベースのプロジェクトの開発効率化](https://tech.mercari.com/entry/2019/12/13/155700)
 - [try! Swift Tokyo 2018 でLT登壇しました＆学習済みCoreMLモデルを公開しました](http://kenmaz.hatenadiary.jp/entry/2018/03/11/034910)
 - [iOSDC2017でCoreMLの話をしてきました](http://kenmaz.hatenadiary.jp/entry/2017/09/19/011326)
 - [DeNA中の人が解説する「マンガボックス」システム構成とiOSアプリの内部構成](https://codeiq.jp/magazine/2014/05/9946/)
