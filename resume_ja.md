@@ -24,6 +24,7 @@
 - データ分析 (SQL, Hive, Vertica, Pig)
 
 # 講演 <a name="stage"></a>
+- iOSDC2020 / [Xcode Previews でUIKitベースのアプリ開発を効率化する](https://speakerdeck.com/kenmaz/xcode-previews-deuikitbesufalseapurikai-fa-woxiao-lu-hua-suru-iosdc-japan-2020)
 - iOSDC2019 / [モバイル決済アプリの作り方](https://speakerdeck.com/kenmaz/how-to-develop-a-mobile-payment-app)
 - try! Swift NYC 2018 / [Super Resolution with CoreML(Long Version)](https://speakerdeck.com/kenmaz/super-resolution-with-coreml-long-version)
 - try! Swift Tokyo 2018 / [Super Resolution with CoreML](https://speakerdeck.com/kenmaz/super-resolution-with-coreml-at-try-swift-tokyo-2018)
