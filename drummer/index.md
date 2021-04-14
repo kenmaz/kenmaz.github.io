@@ -4,24 +4,15 @@
 
 <img src="./drummer_logo.jpg" width="150px"/>
 
-<p>
 DrummerはiPhoneで動作するドラムアプリケーションです。<br>
 画面上に表示される、キック、スネア、ハイハット、クラッシュシンバル等のアイコンを 指でタッチして、ドラムを演奏できます。
-</p>
 
 <img src="./screen_shot_3x3.png" width="150px"/>
 
-<p>
-Drummer is Drum Application running on iPhone.<br>
+Drummer is Drum Application running on iPhone.
 Drummer is a basic drum machine for your iPhone. It comes with a bass drum, snare, high hat, and cymbal. The app supports multitouch, so you can play all four percussion instruments at the same time, and their sounds will also play at the same time. 
-</p>
 
-</p>
-<p class="message">
-<a href="http://itunes.apple.com/jp/app/drummer-lite/id405274410?mt=8">
-Get the App
-</a>
-</p>
+[Get the App](http://itunes.apple.com/jp/app/drummer-lite/id405274410?mt=8)
 
 - [Demo](https://www.youtube.com/embed/nDh8zmNDucc)
 - [Lesson 1: Simple Beat](https://www.youtube.com/embed/nGErOIdpAVY)
