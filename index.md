@@ -9,4 +9,4 @@
 - [Other Apps](https://play.google.com/store/apps/developer?id=kenmaz.net&hl=ja)
 
 # Resume
-- [Japanese](./resume_ja.md) | [English](./resume_ja.md)
+- [Japanese](./resume_ja.md) | [English](./resume_en.md)
