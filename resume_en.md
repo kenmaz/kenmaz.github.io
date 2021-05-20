@@ -1,4 +1,4 @@
-# Job Description 
+# Resume
 (Updated May 21, 2021)
 
 # Basic Information
@@ -6,7 +6,7 @@
 - Name: Kentaro Matsumae (@kenmaz) 
 - Mail: kentaro.matsumae@gmail.com
 - [Twitter](https://twitter.com/kenmaz)
-- Facebook](https://www.facebook.com/kenmaz)
+- [Facebook](https://www.facebook.com/kenmaz)
 - [github](https://github.com/kenmaz)
 - [Qiita](https://qiita.com/kenmaz)
 - [Hatena](http://kenmaz.hatenadiary.jp)
@@ -24,12 +24,12 @@
 - Data analysis (SQL, Hive, Vertica, Pig)
 
 # Presentation <a name="stage"></a></a>
-- iOSDC2020 / [Streamlining UIKit-based app development with Xcode Previews](https://speakerdeck.com/kenmaz/xcode-previews-deuikitbesufalseapurikai-fa-woxiao- lu-hua-suru-iosdc-japan-2020)
+- iOSDC2020 / [Streamlining UIKit-based app development with Xcode Previews](https://speakerdeck.com/kenmaz/xcode-previews-deuikitbesufalseapurikai-fa-woxiao-lu-hua-suru-iosdc-japan-2020)
 - iOSDC2019 / [How to build a mobile payment app](https://speakerdeck.com/kenmaz/how-to-develop-a-mobile-payment-app)
-- try! Swift NYC 2018 / [Super Resolution with CoreML(Long Version)](https://speakerdeck.com/kenmaz/super-resolution-with-coreml-long- version)
-- try! Swift Tokyo 2018 / [Super Resolution with CoreML](https://speakerdeck.com/kenmaz/super-resolution-with-coreml-at-try-swift-tokyo- 2018)
+- try! Swift NYC 2018 / [Super Resolution with CoreML(Long Version)](https://speakerdeck.com/kenmaz/super-resolution-with-coreml-long-version)
+- try! Swift Tokyo 2018 / [Super Resolution with CoreML](https://speakerdeck.com/kenmaz/super-resolution-with-coreml-at-try-swift-tokyo-2018)
 - iOSDC2017 / [Let's make an idol face recognition app with CoreML](https://speakerdeck.com/kenmaz/coremldeaidoruyan-ren-shi-apuriwozuo-rou)
-- DeNA TechCon 2015 / [Swift migration case study in Manga Box](https://speakerdeck.com/kenmaz/iosregasikodogai-shan-gaido-mangabotukusukai-fa-niokerushi- li)
+- DeNA TechCon 2015 / [Swift migration case study in Manga Box](https://speakerdeck.com/kenmaz/iosregasikodogai-shan-gaido-mangabotukusukai-fa-niokerushi-li)
 - Recruit The Forefront of Smartphone UX (May 2012) / [UX, Monetization, and Technology of Nico Nico Douga iOS App](https://www.slideshare.net/kenmaz/web-cat-13077116)
 - Nikkei BP Smartphone Spring 2011 (May 2011) / [How to make the Nico Nico Douga iPhone app](https://speakerdeck.com/kenmaz/nikonikodong-hua-iphoneapurifalsezuo-rifang)
 
@@ -39,7 +39,7 @@
 - Nikkei BP Inc. mook [Learn from Zero - Latest Java - Programming](http://www.amazon.co.jp/ゼロから学ぶ-最新Java-プログラミング-日経BPパソコンベストムック-日経ソフトウエア/dp/4822228479) Co-authored (September 2009)
 - Nikkei Software, Nikkei BP, "Learn Java Tools Slowly," 12 articles in total (Dec. 2009 - Sep. 2010)
 - Nikkei BP, Nikkei Software, "Learning Java slowly" series of 12 articles (May 2008 - June 2009)
-- Gijutsu Hyoronsha [Eclipse Practical Development Introduction](http://www.amazon.co.jp/Eclipse-実践開発入門-Java・Open Source Development・Eclipse3-2-Kentaro-Hitachi Software Engineering, Ltd./dp/4774131059) Co-authored ( Published in May, 2007)
+- Gijutsu Hyoronsha [Eclipse Practical Development Introduction](https://www.amazon.co.jp/dp/4774131059/ref=cm_sw_em_r_mt_dp_NCPZRY4AKQKQZVAJKJVY)
 - Nikkei BP, Nikkei System Construction "Verification of Eclipse TPTP" Contribution (2006)
 - Contributor to IDG Japan JavaWorld "Web Application Development Basics with Eclipse" (2006)
 - Contributor to IDG Japan JavaWorld "Aspect Oriented Development Fundamentals" (2006)
