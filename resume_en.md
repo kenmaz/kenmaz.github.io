@@ -19,7 +19,7 @@
 - Web server environment development (Linux), Cloud environment development (AWS), CI environment development (Jenkins)
 - Data analysis (SQL, Hive, Vertica, Pig)
 
-## Presentations <a name="stage"></a></a>
+## Presentations <a name="presentations"></a>
 - iOSDC2020 / [Streamlining UIKit-based app development with Xcode Previews](https://speakerdeck.com/kenmaz/xcode-previews-deuikitbesufalseapurikai-fa-woxiao-lu-hua-suru-iosdc-japan-2020)
 - iOSDC2019 / [How to build a mobile payment app](https://speakerdeck.com/kenmaz/how-to-develop-a-mobile-payment-app)
 - try! Swift NYC 2018 / [Super Resolution with CoreML(Long Version)](https://speakerdeck.com/kenmaz/super-resolution-with-coreml-long-version)
