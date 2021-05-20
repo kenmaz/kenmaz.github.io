@@ -54,7 +54,7 @@
 - [Contribution to some OSS](https://github.com/kenmaz)
 
 ## Work Experience
-### Mercari Inc (6/2018-present)
+### Mercari Inc (Jun 2018 - present)
 #### Business Overview.
 - iOS engineer for [Mercari](https://www.mercari.com/jp/)
   - Development of mobile payment function [Merpay](https://www.merpay.com) / Tech Lead(TL)
@@ -67,7 +67,7 @@
     - [TL] [My page improvement](https://www.bcnretail.com/market/detail/20210216_213210.html)
     - Development of iOS development platform
 
-### DeNA Corporation (2013/4-2018/5)
+### DeNA Corporation (Apr 2013 - May 2018)
 #### Business Overview
 - Lead engineer for [Manga Box](https://itunes.apple.com/jp/app/manga-box./id633864753?l=ja&ls=1&mt=8) development project.
   - iOS app development, API design, server side development
@@ -119,7 +119,7 @@
 - Design and development of iOS application and server side
 - Initial release (2013/12), operational stabilization, en/zh support
 
-### Dwango Corporation (2009/6 - 2013/3)<a name="dwango"></a>.
+### Dwango Corporation (Jun 2009 - Mar 2013)<a name="dwango"></a>.
 
 #### 2012-2013
 - Verification and development of new services for smartphones (not yet released)
@@ -152,7 +152,7 @@
   - Implementation and maintenance of the video delivery server for [Nico Nico Douga Mobile](http://info.nicovideo.jp/pr_nicom/).
   - Technologies used: Java, PHP, Tomcat, MySQL, Memcached
 
-### Hitachi Software Engineering, Ltd (2003/4 - 2009/5)<a name="hitachi"></a>.
+### Hitachi Software Engineering, Ltd (Apr 2003 - May 2009)<a name="hitachi"></a>.
 
 #### 2008
 - Product development and in-house operation of an enterprise SNS web application (Mar 2008 - Jun 2009)
