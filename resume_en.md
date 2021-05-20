@@ -1,17 +1,13 @@
 # Resume
 (Updated May 21, 2021)
 
-# Basic Information
-
+# Personal Data
 - Name: Kentaro Matsumae (@kenmaz) 
 - Mail: kentaro.matsumae@gmail.com
-- [Twitter](https://twitter.com/kenmaz)
-- [Facebook](https://www.facebook.com/kenmaz)
-- [github](https://github.com/kenmaz)
-- [Qiita](https://qiita.com/kenmaz)
-- [Hatena](http://kenmaz.hatenadiary.jp)
-- [Speaker Deck](https://speakerdeck.com/kenmaz)
-- [SlideShare](https://www.slideshare.net/kenmaz)
+- SNS: [Twitter](https://twitter.com/kenmaz) | [Facebook](https://www.facebook.com/kenmaz) | [github](https://github.com/kenmaz) | [Qiita](https://qiita.com/kenmaz) | [Hatena](http://kenmaz.hatenadiary.jp) | [Speaker Deck](https://speakerdeck.com/kenmaz) | [SlideShare](https://www.slideshare.net/kenmaz)
+
+# Education
+- Apr 1999 – Mar 2003 Kindai University, Japan / Bachelor of Software Engineering
 
 # Skills
 - iOS Application Development (Swift, Objective-C)
@@ -23,7 +19,7 @@
 - Web server environment development (Linux), Cloud environment development (AWS), CI environment development (Jenkins)
 - Data analysis (SQL, Hive, Vertica, Pig)
 
-# Presentation <a name="stage"></a></a>
+# Presentations <a name="stage"></a></a>
 - iOSDC2020 / [Streamlining UIKit-based app development with Xcode Previews](https://speakerdeck.com/kenmaz/xcode-previews-deuikitbesufalseapurikai-fa-woxiao-lu-hua-suru-iosdc-japan-2020)
 - iOSDC2019 / [How to build a mobile payment app](https://speakerdeck.com/kenmaz/how-to-develop-a-mobile-payment-app)
 - try! Swift NYC 2018 / [Super Resolution with CoreML(Long Version)](https://speakerdeck.com/kenmaz/super-resolution-with-coreml-long-version)
@@ -33,7 +29,7 @@
 - Recruit The Forefront of Smartphone UX (May 2012) / [UX, Monetization, and Technology of Nico Nico Douga iOS App](https://www.slideshare.net/kenmaz/web-cat-13077116)
 - Nikkei BP Smartphone Spring 2011 (May 2011) / [How to make the Nico Nico Douga iPhone app](https://speakerdeck.com/kenmaz/nikonikodong-hua-iphoneapurifalsezuo-rifang)
 
-# Books and Contributions <a name="books"></a>
+# Publications <a name="books"></a>
 - Gijutsu Hyoronsha [Smartphone Design](http://gihyo.jp/book/2012/978-4-7741-5335-3) Contribution on UX for smartphone applications (September 2012)
 - Nikkei BP Inc. mook [Complete understanding of Java tools](http://www.amazon.co.jp/Javaツール完全理解-日経BPパソコンベストムック-日経ソフトウエア/dp/4822222667/ref=pd_cp_b_0) Co-authored (March 2011)
 - Nikkei BP Inc. mook [Learn from Zero - Latest Java - Programming](http://www.amazon.co.jp/ゼロから学ぶ-最新Java-プログラミング-日経BPパソコンベストムック-日経ソフトウエア/dp/4822228479) Co-authored (September 2009)
@@ -44,7 +40,7 @@
 - Contributor to IDG Japan JavaWorld "Web Application Development Basics with Eclipse" (2006)
 - Contributor to IDG Japan JavaWorld "Aspect Oriented Development Fundamentals" (2006)
 
-# OSS activities / personal projects
+# OSS activities / Personal Projects
 - [SRCNNKit](https://github.com/DeNA/SRCNNKit)
   - Super-resolution library using CoreML
 - AnimeMaker
@@ -57,11 +53,11 @@
 - [iOS app development/publication](https://itunes.apple.com/jp/developer/kentaro-matsumae/id290852801)
 - [Contribution to some OSS](https://github.com/kenmaz)
 
-# Work Experience.
-## Melpay Inc (6/2018-present)
+# Work Experience
+## Mercari Inc (6/2018-present)
 ### Business Overview.
 - iOS engineer for [Mercari](https://www.mercari.com/jp/)
-  - Development of mobile payment function [Melpay](https://www.merpay.com) / Tech Lead(TL)
+  - Development of mobile payment function [Merpay](https://www.merpay.com) / Tech Lead(TL)
   - Responsibilities:
     - [TL] [iD payment integration](https://www.merpay.com/shops/)(Apple Pay In-App Provisioning)
     - [TL] [Bank account connection function](https://www.merpay.com/howto/2020/07/2-3.html)
