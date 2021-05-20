@@ -56,16 +56,16 @@
 ## Work Experience
 ### Mercari Inc (Jun 2018 - present)
 #### Business Overview.
-- iOS engineer for [Mercari](https://www.mercari.com/jp/)
+- iOS Application Developer for [Mercari](https://www.mercari.com/jp/)
   - Development of mobile payment function [Merpay](https://www.merpay.com) / Tech Lead(TL)
-  - Responsibilities:
-    - [TL] [iD payment integration](https://www.merpay.com/shops/)(Apple Pay In-App Provisioning)
-    - [TL] [Bank account connection function](https://www.merpay.com/howto/2020/07/2-3.html)
-    - [TL] [QR code payment function (CPM/MPM)](https://jp.merpay.com/news/2019/06/qr/)
-    - [TL] Searching for nearby stores with map UI (Google Maps SDK)
-    - [TL] [Sending and receiving (money transfer) function](https://about.mercari.com/press/news/articles/20200713_moneytransfer/)
-    - [TL] [My page improvement](https://www.bcnretail.com/market/detail/20210216_213210.html)
-    - Development of iOS development platform
+- Projects:
+  - [iD payment integration](https://www.merpay.com/shops/)(Apple Pay In-App Provisioning) as Client Tech Lead
+  - [Bank account connection function](https://www.merpay.com/howto/2020/07/2-3.html) as Client Tech Lead
+  - [QR code payment function (CPM/MPM)](https://jp.merpay.com/news/2019/06/qr/) as Client Tech Lead
+  - Searching for nearby stores with map UI (Google Maps SDK) as Client Tech Lead
+  - [Sending and receiving (money transfer) function](https://about.mercari.com/press/news/articles/20200713_moneytransfer/) as Client Tech Lead
+  - [My page improvement](https://www.bcnretail.com/market/detail/20210216_213210.html) as Client Tech Lead
+  - Development of iOS development platform
 
 ### DeNA Corporation (Apr 2013 - May 2018)
 #### Business Overview
