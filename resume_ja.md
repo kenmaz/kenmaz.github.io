@@ -1,5 +1,5 @@
 # 職務経歴書 
-(2020/04/02更新)
+(2021/05/21更新)
 
 # 基本情報
 
@@ -61,12 +61,14 @@
 ## 株式会社メルペイ (2018/6〜現在)
 ### 業務概要
 - [メルカリ](https://www.mercari.com/jp/)のiOSエンジニア
-  - モバイル決済機能[メルペイ](https://www.merpay.com)の開発 / Tech Lead
+  - モバイル決済機能[メルペイ](https://www.merpay.com)の開発 / Tech Lead(TL)
   - 担当範囲:
-    - iD決済連携(Apple Pay In-App Provisioning)
-    - 銀行口座接続機能
-    - QRコード決済機能(CPM/MPM)
-    - 近くのお店機能(Google Maps SDK)
+    - [TL] [iD決済連携](https://www.merpay.com/shops/)(Apple Pay In-App Provisioning)
+    - [TL] [銀行口座接続機能](https://www.merpay.com/howto/2020/07/2-3.html)
+    - [TL] [QRコード決済機能(CPM/MPM)](https://jp.merpay.com/news/2019/06/qr/)
+    - [TL] 地図UIで近くのお店を探す機能(Google Maps SDK)
+    - [TL] [おくる・もらう（送金）機能](https://about.mercari.com/press/news/articles/20200713_moneytransfer/)
+    - [TL] [マイページ改善](https://www.bcnretail.com/market/detail/20210216_213210.html)
     - iOS開発基盤整備
 
 ## 株式会社ディー・エヌ・エー (2013/4〜2018/5)
