@@ -1,3 +1,20 @@
-# Tesla Control
+# Tesla Controller
 
-TBD
+A simple app for iOS/WatchOS to control your Tesla. From the app, you can lock and unlock the car, flash, horn, and open the flank. It also displays the battery level.
+
+The app only accesses the API a minimal number of times. Therefore, Tesla's battery consumption will be kept to a minimum. Of course, your credentials and logs will not be sent to any server other than Tesla.
+
+Have you ever been locked out of your Tesla because you left your iPhone or keys in the car? With this app, you can unlock your car from your Apple Watch in such a situation, making it very safe.
+
+This app requires a Tesla account linked to a real Tesla car.
+
+![スクリーンショット 2021-06-05 2 37 09](https://user-images.githubusercontent.com/46153/120841976-1d7eed80-c5a7-11eb-8ee9-13058a6405aa.png)
+
+## Contact
+https://twitter.com/kenmaz
+
+## License
+### TeslaSwift
+Copyright (c) 2016 João Nunes
+Released under the MIT license
+https://github.com/jonasman/TeslaSwift
