@@ -12,10 +12,10 @@ This app requires a Tesla account linked to a real Tesla car.
 
 
 ## Contact
-https://twitter.com/kenmaz
+[https://twitter.com/kenmaz](https://twitter.com/kenmaz)
 
 ## License
 ### TeslaSwift
 Copyright (c) 2016 João Nunes
 Released under the MIT license
-https://github.com/jonasman/TeslaSwift
+[https://github.com/jonasman/TeslaSwift](https://github.com/jonasman/TeslaSwift)
