@@ -1,6 +1,6 @@
-# Tesla Controller
+# S3XY Key Fob
 
-Tesla Controller is a simple app for iPhone / Apple Watch to control your Tesla. From the app, you can lock and unlock the car, flash, horn, and open the flank. It also displays the battery level.
+S3XY Key Fob is a simple app for iPhone / Apple Watch to control your Tesla. From the app, you can lock and unlock the car, flash, horn, and open the flank. It also displays the battery level.
 
 ![スクリーンショット 2021-06-05 2 37 09](https://user-images.githubusercontent.com/46153/120841976-1d7eed80-c5a7-11eb-8ee9-13058a6405aa.png)
 
