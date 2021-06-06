@@ -16,7 +16,9 @@ https://www.youtube.com/channel/UCBVPcCmrAZav8SBQmfgKLOw
 ## Twitter
 [https://twitter.com/kenmaz](https://twitter.com/kenmaz)
 
-
+## Referral Code
+If you buy Tesla car, plase use the following Referral Code to get 1500km of free supercharging credit.
+[https://t.co/kewLJHtcne](https://t.co/kewLJHtcne)
 
 ## License
 ### TeslaSwift
