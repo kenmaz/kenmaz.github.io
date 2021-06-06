@@ -24,7 +24,5 @@ If you buy Tesla car, plase use the following Referral Code to get 1500km of fre
 ## License
 ### TeslaSwift
 Copyright (c) 2016 João Nunes
-
 Released under the MIT license
-
 [https://github.com/jonasman/TeslaSwift](https://github.com/jonasman/TeslaSwift)
