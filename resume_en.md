@@ -46,8 +46,8 @@
   - Super-resolution library using CoreML
 - AnimeMaker
   - A parapara manga creation and sharing service (140K MAU, about 5000 submissions/day) 
-  - [iOS App](https://itunes.apple.com/jp/app/animemaker/id405622194?mt=8) (600,000 DL~)
-  - [Android app](https://play.google.com/store/apps/details?id=kenmaz.net.animemaker&hl=ja) (1 million DL~)
+  - [iOS App](https://itunes.apple.com/jp/app/animemaker/id405622194?mt=8) (800,000+ Install)
+  - [Android app](https://play.google.com/store/apps/details?id=kenmaz.net.animemaker&hl=ja) (3 million+ Install)
   - [Web](http://anime.kenmaz.net) 
 - [Momoclo member discriminator](http://momomind.kenmaz.net)
   - For verification of deep learning
@@ -56,7 +56,6 @@
 
 ## Work Experience
 ### Mercari Inc (Jun 2018 - present)
-#### Business Overview.
 - iOS Application Developer for [Mercari](https://www.mercari.com/jp/)
   - Development of mobile payment function [Merpay](https://www.merpay.com) / Tech Lead(TL)
 - Projects:
@@ -68,21 +67,20 @@
   - [My page improvement](https://www.bcnretail.com/market/detail/20210216_213210.html) as Client Tech Lead
   - Development of iOS development platform
 
+### Chompy Inc (Dec 2019 - Mar 2020 / Side Job)
+- Development Flutter Application for Merchant.
+
 ### DeNA Corporation (Apr 2013 - May 2018)
-#### Business Overview
 - Lead engineer for [Manga Box](https://itunes.apple.com/jp/app/manga-box./id633864753?l=ja&ls=1&mt=8) development project.
   - iOS app development, API design, server side development
   - Log aggregation for service growth, function improvement, AB test implementation
   - Develop CI environment, research new technologies, etc.
-##### Technologies used
-- iOS application
+- Technologies
   - Language: Swift / Objective-C
   - Tools: CocoaPods / SwiftLint / Fastlane 
   - Data store: CoreData / MagicalRecord
   - Communication / API: AFNetworking / JSONRPC / Codable
-- Servers
   - Perl / Amon2 / MySQL / Memcached
-- Analysis, others
   - Hadoop / Hive / Vertica / Python / Keras / Tensorflow
 
 #### 2018
