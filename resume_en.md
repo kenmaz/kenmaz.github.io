@@ -1,5 +1,5 @@
 # Resume
-(Updated May 21, 2021)
+(Updated July 28, 2021)
 
 ## Personal Data
 - Name: Kentaro Matsumae (@kenmaz) 
@@ -11,9 +11,10 @@
 
 ## Skills
 - iOS Application Development (Swift, Objective-C)
-- Web Application Development (Ruby, PHP, Perl, Java, JavaScript, MySQL, Memcached, Redis, Q4M, etc...)
+- Web Application Development (Go, Ruby, PHP, Perl, Java, JavaScript, MySQL, Memcached, Redis, Q4M, etc...)
+- Android application development (Kotlin, Java)
+- Flutter Application Development (Dart)
 - Machine learning program development (Python, Keras, Tensorflow)
-- Android application development (Java, Kotlin)
 - Server application development (Java)
 - Development of development support tools (Java, VBA)
 - Web server environment development (Linux), Cloud environment development (AWS), CI environment development (Jenkins)
