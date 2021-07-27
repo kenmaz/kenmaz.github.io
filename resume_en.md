@@ -30,7 +30,9 @@
 - Recruit The Forefront of Smartphone UX (May 2012) / [UX, Monetization, and Technology of Nico Nico Douga iOS App](https://www.slideshare.net/kenmaz/web-cat-13077116)
 - Nikkei BP Smartphone Spring 2011 (May 2011) / [How to make the Nico Nico Douga iPhone app](https://speakerdeck.com/kenmaz/nikonikodong-hua-iphoneapurifalsezuo-rifang)
 
-## Publications <a name="books"></a>
+## Publications / Contributions <a name="books"></a>
+- Mercari Engineering Blog [Snapshot Code Generation from Xcode Previews](https://engineering.mercari.com/blog/entry/20201204-1f94b9dca2/) 
+- Mercari Engineering Blog  [Streamlining UIKit-based app development with Xcode Previews](https://engineering.mercari.com/blog/entry/2019-12-13-155700/) 
 - Gijutsu Hyoronsha [Smartphone Design](http://gihyo.jp/book/2012/978-4-7741-5335-3) Contribution on UX for smartphone applications (September 2012)
 - Nikkei BP Inc. mook [Complete understanding of Java tools](http://www.amazon.co.jp/Javaツール完全理解-日経BPパソコンベストムック-日経ソフトウエア/dp/4822222667/ref=pd_cp_b_0) Co-authored (March 2011)
 - Nikkei BP Inc. mook [Learn from Zero - Latest Java - Programming](http://www.amazon.co.jp/ゼロから学ぶ-最新Java-プログラミング-日経BPパソコンベストムック-日経ソフトウエア/dp/4822228479) Co-authored (September 2009)
