@@ -44,6 +44,8 @@
 - Contributor to IDG Japan JavaWorld "Aspect Oriented Development Fundamentals" (2006)
 
 ## OSS activities / Personal Projects
+- [S3XY Key Fob](https://kenmaz.net/tesla-app/)
+  - Tesla Control App for watchOS/iOS
 - [SRCNNKit](https://github.com/DeNA/SRCNNKit)
   - Super-resolution library using CoreML
 - AnimeMaker
