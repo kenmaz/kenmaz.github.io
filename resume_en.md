@@ -55,8 +55,8 @@
   - [Web](http://anime.kenmaz.net) 
 - [Momoclo member detector](https://twitter.com/kenmaz/status/734121696001556480)
   - Web application build to learn deep larning / computer vision / face detection
-- [iOS app development/publication](https://itunes.apple.com/jp/developer/kentaro-matsumae/id290852801)
-- [Contribution to some OSS](https://github.com/kenmaz)
+- [Other iOS Apps](https://itunes.apple.com/jp/developer/kentaro-matsumae/id290852801)
+- [OSS Contributions](https://github.com/kenmaz)
 
 ## Work Experience
 ### Mercari Inc (Jun 2018 - present)
