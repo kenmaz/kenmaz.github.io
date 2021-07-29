@@ -31,17 +31,17 @@
 - [How to make the Nico Nico Douga iPhone app](https://speakerdeck.com/kenmaz/nikonikodong-hua-iphoneapurifalsezuo-rifang) / Nikkei BP Smartphone Spring 2011 (May 2011)
 
 ## Publications / Contributions <a name="books"></a>
-- [Snapshot Code Generation from Xcode Previews](https://engineering.mercari.com/blog/entry/20201204-1f94b9dca2/), Mercari Engineering Blog 
-- [Streamlining UIKit-based app development with Xcode Previews](https://engineering.mercari.com/blog/entry/2019-12-13-155700/), Mercari Engineering Blog
-- [Smartphone Design](http://gihyo.jp/book/2012/978-4-7741-5335-3) Contribution on UX for smartphone applications (September 2012), Gijutsu Hyoronsha
-- [Complete understanding of Java tools](http://www.amazon.co.jp/Javaツール完全理解-日経BPパソコンベストムック-日経ソフトウエア/dp/4822222667/ref=pd_cp_b_0) Co-authored, Nikkei BP Inc (March 2011)
-- [Learn from Zero - Latest Java - Programming](http://www.amazon.co.jp/ゼロから学ぶ-最新Java-プログラミング-日経BPパソコンベストムック-日経ソフトウエア/dp/4822228479) Co-authored, Nikkei BP Inc (September 2009)
-- "Learn Java Tools Slowly," 12 articles in total (Dec. 2009 - Sep. 2010), Nikkei Software, Nikkei BP
-- "Learning Java slowly" series of 12 articles (May 2008 - June 2009), Nikkei BP, Nikkei Software
-- [Eclipse Practical Development Introduction](https://www.amazon.co.jp/dp/4774131059/ref=cm_sw_em_r_mt_dp_NCPZRY4AKQKQZVAJKJVY), Gijutsu Hyoronsha 
-- "Verification of Eclipse TPTP" Contribution (2006), Nikkei BP, Nikkei System Construction 
-- "Web Application Development Basics with Eclipse" Contribute (2006), IDG Japan JavaWorld 
-- "Aspect Oriented Development Fundamentals" Contribute (2006), IDG Japan JavaWorld
+- [Snapshot Code Generation from Xcode Previews](https://engineering.mercari.com/blog/entry/20201204-1f94b9dca2/) / Mercari Engineering Blog 
+- [Streamlining UIKit-based app development with Xcode Previews](https://engineering.mercari.com/blog/entry/2019-12-13-155700/) / Mercari Engineering Blog
+- [Smartphone Design](http://gihyo.jp/book/2012/978-4-7741-5335-3) Contribution on UX for smartphone applications (September 2012) / Gijutsu Hyoronsha
+- [Complete understanding of Java tools](http://www.amazon.co.jp/Javaツール完全理解-日経BPパソコンベストムック-日経ソフトウエア/dp/4822222667/ref=pd_cp_b_0) Co-authored /  Nikkei BP Inc (March 2011)
+- [Learn from Zero - Latest Java - Programming](http://www.amazon.co.jp/ゼロから学ぶ-最新Java-プログラミング-日経BPパソコンベストムック-日経ソフトウエア/dp/4822228479) Co-authored / Nikkei BP Inc (September 2009)
+- "Learn Java Tools Slowly," 12 articles in total (Dec. 2009 - Sep. 2010) / Nikkei Software, Nikkei BP 
+- "Learning Java slowly" series of 12 articles (May 2008 - June 2009) / Nikkei BP, Nikkei Software
+- [Eclipse Practical Development Introduction](https://www.amazon.co.jp/dp/4774131059/ref=cm_sw_em_r_mt_dp_NCPZRY4AKQKQZVAJKJVY) / Gijutsu Hyoronsha 
+- "Verification of Eclipse TPTP" Contribution (2006) / Nikkei BP, Nikkei System Construction 
+- "Web Application Development Basics with Eclipse" Contribute (2006) / IDG Japan JavaWorld 
+- "Aspect Oriented Development Fundamentals" Contribute (2006) / IDG Japan JavaWorld
 
 ## OSS activities / Personal Projects
 - [S3XY Key Fob](https://kenmaz.net/tesla-app/)
