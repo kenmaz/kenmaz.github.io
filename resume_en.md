@@ -21,27 +21,27 @@
 - Data analysis (SQL, Hive, Vertica, Pig)
 
 ## Presentations <a name="presentations"></a>
-- iOSDC2020 / [Streamlining UIKit-based app development with Xcode Previews](https://speakerdeck.com/kenmaz/xcode-previews-deuikitbesufalseapurikai-fa-woxiao-lu-hua-suru-iosdc-japan-2020)
-- iOSDC2019 / [How to build a mobile payment app](https://speakerdeck.com/kenmaz/how-to-develop-a-mobile-payment-app)
-- try! Swift NYC 2018 / [Super Resolution with CoreML(Long Version)](https://speakerdeck.com/kenmaz/super-resolution-with-coreml-long-version)
-- try! Swift Tokyo 2018 / [Super Resolution with CoreML](https://speakerdeck.com/kenmaz/super-resolution-with-coreml-at-try-swift-tokyo-2018)
-- iOSDC2017 / [Let's make an idol face recognition app with CoreML](https://speakerdeck.com/kenmaz/coremldeaidoruyan-ren-shi-apuriwozuo-rou)
-- DeNA TechCon 2015 / [Swift migration case study in Manga Box](https://speakerdeck.com/kenmaz/iosregasikodogai-shan-gaido-mangabotukusukai-fa-niokerushi-li)
-- Recruit The Forefront of Smartphone UX (May 2012) / [UX, Monetization, and Technology of Nico Nico Douga iOS App](https://www.slideshare.net/kenmaz/web-cat-13077116)
-- Nikkei BP Smartphone Spring 2011 (May 2011) / [How to make the Nico Nico Douga iPhone app](https://speakerdeck.com/kenmaz/nikonikodong-hua-iphoneapurifalsezuo-rifang)
+- [Streamlining UIKit-based app development with Xcode Previews](https://speakerdeck.com/kenmaz/xcode-previews-deuikitbesufalseapurikai-fa-woxiao-lu-hua-suru-iosdc-japan-2020), iOSDC2020
+- [How to build a mobile payment app](https://speakerdeck.com/kenmaz/how-to-develop-a-mobile-payment-app), iOSDC2019
+- [Super Resolution with CoreML(Long Version)](https://speakerdeck.com/kenmaz/super-resolution-with-coreml-long-version), try! Swift NYC 2018
+- [Super Resolution with CoreML](https://speakerdeck.com/kenmaz/super-resolution-with-coreml-at-try-swift-tokyo-2018), try! Swift Tokyo 2018
+- [Let's make an idol face recognition app with CoreML](https://speakerdeck.com/kenmaz/coremldeaidoruyan-ren-shi-apuriwozuo-rou), iOSDC2017
+- [Swift migration case study in Manga Box](https://speakerdeck.com/kenmaz/iosregasikodogai-shan-gaido-mangabotukusukai-fa-niokerushi-li), DeNA TechCon 2015
+- [UX, Monetization, and Technology of Nico Nico Douga iOS App](https://www.slideshare.net/kenmaz/web-cat-13077116), Recruit The Forefront of Smartphone UX (May 2012)
+- [How to make the Nico Nico Douga iPhone app](https://speakerdeck.com/kenmaz/nikonikodong-hua-iphoneapurifalsezuo-rifang), Nikkei BP Smartphone Spring 2011 (May 2011)
 
 ## Publications / Contributions <a name="books"></a>
-- Mercari Engineering Blog [Snapshot Code Generation from Xcode Previews](https://engineering.mercari.com/blog/entry/20201204-1f94b9dca2/) 
-- Mercari Engineering Blog  [Streamlining UIKit-based app development with Xcode Previews](https://engineering.mercari.com/blog/entry/2019-12-13-155700/) 
-- Gijutsu Hyoronsha [Smartphone Design](http://gihyo.jp/book/2012/978-4-7741-5335-3) Contribution on UX for smartphone applications (September 2012)
-- Nikkei BP Inc. mook [Complete understanding of Java tools](http://www.amazon.co.jp/Javaツール完全理解-日経BPパソコンベストムック-日経ソフトウエア/dp/4822222667/ref=pd_cp_b_0) Co-authored (March 2011)
-- Nikkei BP Inc. mook [Learn from Zero - Latest Java - Programming](http://www.amazon.co.jp/ゼロから学ぶ-最新Java-プログラミング-日経BPパソコンベストムック-日経ソフトウエア/dp/4822228479) Co-authored (September 2009)
-- Nikkei Software, Nikkei BP, "Learn Java Tools Slowly," 12 articles in total (Dec. 2009 - Sep. 2010)
-- Nikkei BP, Nikkei Software, "Learning Java slowly" series of 12 articles (May 2008 - June 2009)
-- Gijutsu Hyoronsha [Eclipse Practical Development Introduction](https://www.amazon.co.jp/dp/4774131059/ref=cm_sw_em_r_mt_dp_NCPZRY4AKQKQZVAJKJVY)
-- Nikkei BP, Nikkei System Construction "Verification of Eclipse TPTP" Contribution (2006)
-- Contributor to IDG Japan JavaWorld "Web Application Development Basics with Eclipse" (2006)
-- Contributor to IDG Japan JavaWorld "Aspect Oriented Development Fundamentals" (2006)
+- [Snapshot Code Generation from Xcode Previews](https://engineering.mercari.com/blog/entry/20201204-1f94b9dca2/), Mercari Engineering Blog 
+- [Streamlining UIKit-based app development with Xcode Previews](https://engineering.mercari.com/blog/entry/2019-12-13-155700/), Mercari Engineering Blog
+- [Smartphone Design](http://gihyo.jp/book/2012/978-4-7741-5335-3) Contribution on UX for smartphone applications (September 2012), Gijutsu Hyoronsha
+- [Complete understanding of Java tools](http://www.amazon.co.jp/Javaツール完全理解-日経BPパソコンベストムック-日経ソフトウエア/dp/4822222667/ref=pd_cp_b_0) Co-authored, Nikkei BP Inc (March 2011)
+- [Learn from Zero - Latest Java - Programming](http://www.amazon.co.jp/ゼロから学ぶ-最新Java-プログラミング-日経BPパソコンベストムック-日経ソフトウエア/dp/4822228479) Co-authored, Nikkei BP Inc (September 2009)
+- "Learn Java Tools Slowly," 12 articles in total (Dec. 2009 - Sep. 2010), Nikkei Software, Nikkei BP
+- "Learning Java slowly" series of 12 articles (May 2008 - June 2009), Nikkei BP, Nikkei Software
+- [Eclipse Practical Development Introduction](https://www.amazon.co.jp/dp/4774131059/ref=cm_sw_em_r_mt_dp_NCPZRY4AKQKQZVAJKJVY), Gijutsu Hyoronsha 
+- "Verification of Eclipse TPTP" Contribution (2006), Nikkei BP, Nikkei System Construction 
+- "Web Application Development Basics with Eclipse" Contribute (2006), IDG Japan JavaWorld 
+- "Aspect Oriented Development Fundamentals" Contribute (2006), IDG Japan JavaWorld
 
 ## OSS activities / Personal Projects
 - [S3XY Key Fob](https://kenmaz.net/tesla-app/)
