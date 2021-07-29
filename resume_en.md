@@ -53,8 +53,8 @@
   - [iOS App](https://itunes.apple.com/jp/app/animemaker/id405622194?mt=8) (800,000+ Install)
   - [Android app](https://play.google.com/store/apps/details?id=kenmaz.net.animemaker&hl=ja) (3 million+ Install)
   - [Web](http://anime.kenmaz.net) 
-- [Momoclo member discriminator](http://momomind.kenmaz.net)
-  - For verification of deep learning
+- [Momoclo member detector](https://twitter.com/kenmaz/status/734121696001556480)
+  - Web application build to learn deep larning / computer vision / face detection
 - [iOS app development/publication](https://itunes.apple.com/jp/developer/kentaro-matsumae/id290852801)
 - [Contribution to some OSS](https://github.com/kenmaz)
 
