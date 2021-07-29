@@ -48,8 +48,8 @@
   - Tesla Control App for watchOS/iOS
 - [SRCNNKit](https://github.com/DeNA/SRCNNKit)
   - Super-resolution library using CoreML
-- AnimeMaker
-  - A parapara manga creation and sharing service (140K MAU, about 5000 submissions/day) 
+- [AnimeMaker](https://anime.kenmaz.net)
+  - A parapara manga creation and sharing service (140K MAU, about 5000 submissions/day, ¥300k+/Month Revenue) 
   - [iOS App](https://itunes.apple.com/jp/app/animemaker/id405622194?mt=8) (800,000+ Install)
   - [Android app](https://play.google.com/store/apps/details?id=kenmaz.net.animemaker&hl=ja) (3 million+ Install)
   - [Web](http://anime.kenmaz.net) 
