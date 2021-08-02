@@ -19,7 +19,7 @@
 - Development of development support tools (Java, VBA)
 - Infrastructure (Linux, Sakura VPS, AWS)
 - CI (CircleCI, Jenkins)
-- Data analysis (SQL, Hive, Vertica, Pig, )
+- Data analysis (SQL, Hive, Vertica, Pig, Big Query)
 
 ## Presentations <a name="presentations"></a>
 - [Streamlining UIKit-based app development with Xcode Previews](https://speakerdeck.com/kenmaz/xcode-previews-deuikitbesufalseapurikai-fa-woxiao-lu-hua-suru-iosdc-japan-2020) / iOSDC2020
