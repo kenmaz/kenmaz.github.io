@@ -17,8 +17,9 @@
 - Machine learning program development (Python, Keras, Tensorflow)
 - Server application development (Java)
 - Development of development support tools (Java, VBA)
-- Web server environment development (Linux), Cloud environment development (AWS), CI environment development (Jenkins)
-- Data analysis (SQL, Hive, Vertica, Pig)
+- Infrastructure (Linux, Sakura VPS, AWS)
+- CI (CircleCI, Jenkins)
+- Data analysis (SQL, Hive, Vertica, Pig, )
 
 ## Presentations <a name="presentations"></a>
 - [Streamlining UIKit-based app development with Xcode Previews](https://speakerdeck.com/kenmaz/xcode-previews-deuikitbesufalseapurikai-fa-woxiao-lu-hua-suru-iosdc-japan-2020) / iOSDC2020
