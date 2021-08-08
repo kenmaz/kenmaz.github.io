@@ -4,7 +4,7 @@
 ## 基本情報
 - Name: 松前健太郎 (Kentaro Matsumae / @kenmaz) 
 - Mail: kentaro.matsumae@gmail.com
-- SNS: [Twitter](https://twitter.com/kenmaz) / [Facebook](https://www.facebook.com/kenmaz) / [github](https://github.com/kenmaz) / [Qiita](https://qiita.com/kenmaz) / [Hatena](http://kenmaz.hatenadiary.jp) / [SlideShare](https://www.slideshare.net/kenmaz)
+- SNS: [Twitter](https://twitter.com/kenmaz) / [Facebook](https://www.facebook.com/kenmaz) / [github](https://github.com/kenmaz) / [Qiita](https://qiita.com/kenmaz) / [Hatena](http://kenmaz.hatenadiary.jp) / [Speaker Deck](https://speakerdeck.com/kenmaz)
 
 ## スキル
 - iOSアプリケーション開発 (Swift, Objective-C)
