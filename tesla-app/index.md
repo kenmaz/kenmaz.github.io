@@ -17,7 +17,8 @@ This app requires a Tesla account linked to a real Tesla car.
 <a href="https://www.youtube.com/watch?v=PjWa-Is3FZk">
 <img src=https://user-images.githubusercontent.com/46153/128882834-33f0577a-59ac-4a16-b422-bedb993b26d3.png>
 </a>
-[https://www.youtube.com/watch?v=PjWa-Is3FZk](https://www.youtube.com/watch?v=PjWa-Is3FZk)
+
+https://www.youtube.com/watch?v=PjWa-Is3FZk
 
 ## Twitter
 [https://twitter.com/kenmaz](https://twitter.com/kenmaz)
