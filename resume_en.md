@@ -50,7 +50,7 @@
 - [SRCNNKit](https://github.com/DeNA/SRCNNKit)
   - Super-resolution library using CoreML
 - [AnimeMaker](https://anime.kenmaz.net)
-  - Flip-book animation drawing and sharing service (140k MAU, 5k Posts/day, ¥300k+ Revenue/month ) 
+  - Flip-book animation drawing and sharing service (140k MAU, 5k Posts/day) 
   - [iOS App](https://itunes.apple.com/jp/app/animemaker/id405622194?mt=8) (800,000+ Install)
   - [Android app](https://play.google.com/store/apps/details?id=kenmaz.net.animemaker&hl=ja) (3 million+ Install)
   - [Web](http://anime.kenmaz.net) 
