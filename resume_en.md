@@ -22,7 +22,7 @@
 - Data analysis (SQL, Hive, Vertica, Pig, Big Query)
 
 ## Presentations <a name="presentations"></a>
-- [Hacking Tesla: Imagine Apple Car by iOS App developer buying a Tesla car to research and develop apps](https://fortee.jp/iosdc-japan-2021/proposal/2c056306-0c68-488b-93ec-3aaee820efa8)
+- [Hacking Tesla: Imagine Apple Car by iOS App developer buying a Tesla car to research and develop apps](https://fortee.jp/iosdc-japan-2021/proposal/2c056306-0c68-488b-93ec-3aaee820efa8) / iOSDC2021
 - [Streamlining UIKit-based app development with Xcode Previews](https://speakerdeck.com/kenmaz/xcode-previews-deuikitbesufalseapurikai-fa-woxiao-lu-hua-suru-iosdc-japan-2020) / iOSDC2020
 - [How to build a mobile payment app](https://speakerdeck.com/kenmaz/how-to-develop-a-mobile-payment-app) / iOSDC2019
 - [Super Resolution with CoreML(Long Version)](https://speakerdeck.com/kenmaz/super-resolution-with-coreml-long-version) / try! Swift NYC 2018
