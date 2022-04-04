@@ -1,5 +1,5 @@
 # Resume
-(Updated July 28, 2021)
+(Updated April 4, 2022)
 
 ## Personal Data
 - Name: Kentaro Matsumae (@kenmaz) 
@@ -70,7 +70,7 @@
   - Searching for nearby stores with map UI (Google Maps SDK) as Client Tech Lead
   - [Sending and receiving (money transfer) function](https://about.mercari.com/press/news/articles/20200713_moneytransfer/) as Client Tech Lead
   - [My page improvement](https://www.bcnretail.com/market/detail/20210216_213210.html) as Client Tech Lead
-  - Development of iOS development platform
+  - SwiftUI migration
 
 ### Chompy Inc (Dec 2019 - Mar 2020 / Side Job)
 - Development Flutter Application for Merchant.
