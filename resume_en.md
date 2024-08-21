@@ -1,5 +1,5 @@
 # Resume
-(Updated April 4, 2022)
+(Updated 2024/08/21)
 
 ## Personal Data
 - Name: Kentaro Matsumae (@kenmaz) 
@@ -22,15 +22,16 @@
 - Data analysis (SQL, Hive, Vertica, Pig, Big Query)
 
 ## Presentations <a name="presentations"></a>
-- [Hacking Tesla: Imagine Apple Car by iOS App developer buying a Tesla car to research and develop apps](https://fortee.jp/iosdc-japan-2021/proposal/2c056306-0c68-488b-93ec-3aaee820efa8) / iOSDC2021
-- [Streamlining UIKit-based app development with Xcode Previews](https://speakerdeck.com/kenmaz/xcode-previews-deuikitbesufalseapurikai-fa-woxiao-lu-hua-suru-iosdc-japan-2020) / iOSDC2020
-- [How to build a mobile payment app](https://speakerdeck.com/kenmaz/how-to-develop-a-mobile-payment-app) / iOSDC2019
-- [Super Resolution with CoreML(Long Version)](https://speakerdeck.com/kenmaz/super-resolution-with-coreml-long-version) / try! Swift NYC 2018
-- [Super Resolution with CoreML](https://speakerdeck.com/kenmaz/super-resolution-with-coreml-at-try-swift-tokyo-2018) / try! Swift Tokyo 2018
-- [Let's make an idol face recognition app with CoreML](https://speakerdeck.com/kenmaz/coremldeaidoruyan-ren-shi-apuriwozuo-rou) / iOSDC2017
-- [Swift migration case study in Manga Box](https://speakerdeck.com/kenmaz/iosregasikodogai-shan-gaido-mangabotukusukai-fa-niokerushi-li) / DeNA TechCon 2015
-- [UX, Monetization, and Technology of Nico Nico Douga iOS App](https://www.slideshare.net/kenmaz/web-cat-13077116) / Recruit The Forefront of Smartphone UX (May 2012)
-- [How to make the Nico Nico Douga iPhone app](https://speakerdeck.com/kenmaz/nikonikodong-hua-iphoneapurifalsezuo-rifang) / Nikkei BP Smartphone Spring 2011 (May 2011)
+- Merpay & Mercoin Tech Fest 2023 / [Merpay iOS GroundUP App Migration](https://engineering.mercari.com/blog/entry/20231023-mmtf2023-day1-4/?utm_source=dlvr.it&utm_medium=twitter)
+- iOSDC2021 / [Hacking Tesla: Imagine Apple Car by iOS App developer buying a Tesla car to research and develop apps](https://fortee.jp/iosdc-japan-2021/proposal/2c056306-0c68-488b-93ec-3aaee820efa8)
+- iOSDC2020 / [Streamlining UIKit-based app development with Xcode Previews](https://speakerdeck.com/kenmaz/xcode-previews-deuikitbesufalseapurikai-fa-woxiao-lu-hua-suru-iosdc-japan-2020)
+- iOSDC2019 / [How to build a mobile payment app](https://speakerdeck.com/kenmaz/how-to-develop-a-mobile-payment-app) 
+- try! Swift NYC 2018 / [Super Resolution with CoreML(Long Version)](https://speakerdeck.com/kenmaz/super-resolution-with-coreml-long-version)
+- try! Swift Tokyo 2018 / [Super Resolution with CoreML](https://speakerdeck.com/kenmaz/super-resolution-with-coreml-at-try-swift-tokyo-2018)
+- iOSDC2017 / [Let's make an idol face recognition app with CoreML](https://speakerdeck.com/kenmaz/coremldeaidoruyan-ren-shi-apuriwozuo-rou) 
+- DeNA TechCon 2015 / [Swift migration case study in Manga Box](https://speakerdeck.com/kenmaz/iosregasikodogai-shan-gaido-mangabotukusukai-fa-niokerushi-li)
+- Recruit The Forefront of Smartphone UX (May 2012) / [UX, Monetization, and Technology of Nico Nico Douga iOS App](https://www.slideshare.net/kenmaz/web-cat-13077116)
+- Nikkei BP Smartphone Spring 2011 (May 2011) / [How to make the Nico Nico Douga iPhone app](https://speakerdeck.com/kenmaz/nikonikodong-hua-iphoneapurifalsezuo-rifang)
 
 ## Publications / Contributions <a name="books"></a>
 - [Snapshot Code Generation from Xcode Previews](https://engineering.mercari.com/blog/entry/20201204-1f94b9dca2/) / Mercari Engineering Blog 
