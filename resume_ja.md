@@ -17,6 +17,8 @@
 - データ分析 (SQL, Hive, Vertica, Pig)
 
 ## 講演 <a name="stage"></a>
+- Merpay & Mercoin Tech Fest 2023 / [Merpay iOSのGroundUP Appへの移行](https://engineering.mercari.com/blog/entry/20231023-mmtf2023-day1-4/?utm_source=dlvr.it&utm_medium=twitter)
+- iOSDC2021 / [iOSアプリ開発者がテスラを買って色々調べたりアプリを作ったりしつつまだ見ぬApple Carを想像する](https://speakerdeck.com/kenmaz/iosapurikai-fa-zhe-gatesurawomai-tutese-diao-betariapuriwozuo-tutarisitutumadajian-nuapple-carwoxiang-xiang-suru)
 - iOSDC2020 / [Xcode Previews でUIKitベースのアプリ開発を効率化する](https://speakerdeck.com/kenmaz/xcode-previews-deuikitbesufalseapurikai-fa-woxiao-lu-hua-suru-iosdc-japan-2020)
 - iOSDC2019 / [モバイル決済アプリの作り方](https://speakerdeck.com/kenmaz/how-to-develop-a-mobile-payment-app)
 - try! Swift NYC 2018 / [Super Resolution with CoreML(Long Version)](https://speakerdeck.com/kenmaz/super-resolution-with-coreml-long-version)
