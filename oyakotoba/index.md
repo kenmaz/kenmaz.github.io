@@ -14,37 +14,31 @@
 <p>以下の手順で独自のアルバムを作成して、写真を追加できます</p> 
 <ol>
 <li>アプリを起動して「へんしゅう」ボタンを押します</li>
-<p><img src="imgs/ss_01.jpg">
+<p><img src="imgs/IMG_4074.PNG">
 
 <li>右上の「アルバムを追加」ボタンを押します</li>
-<p><img src="imgs/ss_02.jpg">
+<p><img src="imgs/IMG_4075.PNG">
 
 <li>アルバム名を入力して「OK」ボタンを押します</li>
-<p><img src="imgs/ss_04.jpg">
+<p><img src="imgs/IMG_4077.PNG">
 
-<li>アルバム一覧画面にアルバムが追加されるので、タップします</li>
-<p><img src="imgs/ss_05.jpg">
+<li>アルバム一覧画面に空のアルバムが追加されるので、タップします</li>
+<p><img src="imgs/IMG_4078.PNG">
 
 <li>右上の「写真を追加」ボタンをタップします</li>
-<p><img src="imgs/ss_06.jpg">
+<p><img src="imgs/IMG_4079.PNG">
 
-<li>フォトライブラリから画像を選択するか、カメラで撮影するかを決定します。ここではフォトライブラリから写真を選択します</li>
-<p><img src="imgs/ss_07.jpg">
-
-<li>追加したい写真を選びます</li>
-<p><img src="imgs/ss_08.jpg">
-
-<li>写真を選んだら右下の「Choice」ボタンをタップします</li>
-<p><img src="imgs/ss_09.jpg">
+<li>フォトライブラリから画像を選択するか、カメラで画像を撮影します。</li>
+<p><img src="imgs/IMG_4080.PNG">
 
 <li>写真が追加されました</li>
-<p><img src="imgs/ss_10.jpg">
+<p><img src="imgs/IMG_4081.PNG">
 
 <li>追加された写真をタップすると写真を確認できます</li>
-<p><img src="imgs/ss_11.jpg">
+<p><img src="imgs/IMG_4082.PNG">
 
-<li>左下の「タップして録音」ボタンを押すと録音が開始されます。もう一度ボタンをおすと録音が停止します</li>
-<p><img src="imgs/ss_12.jpg">
+<li>左下の「タップして録音」ボタンを押して録音を開始します。初回のみマイクへのアクセス許可が求められるので許可します。</li>
+<p><img src="imgs/IMG_4083.PNG">
 
 <li>画面をタップすることで録音した声を確認できます</li>
-<p><img src="imgs/ss_13.jpg">
+<p><img src="imgs/IMG_4086.PNG">
